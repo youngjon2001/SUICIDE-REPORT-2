@@ -19,7 +19,10 @@ Mental health and suicide rate. The Kaggle Link[https://www.kaggle.com/datasets/
 2. Age group with the highest level of suicide rate.
 3. Country with the highest mental health staff density.
 4. The age group within Africa with the most cases of suicide rate.
-5. Trend of suicide rate in Africa. 
+5. Trend of suicide rate in Africa.
+## RESULT ANALYSIS
+
+
 
 
 
