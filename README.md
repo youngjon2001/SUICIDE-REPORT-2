@@ -1,6 +1,6 @@
 # SUICIDE-REPORT-2
 This portfolio is to showcase the suicide report from 2000 to 2016 
-## BACKGROUND  
+ 
 ## 📌 Background  
 Understanding global mental health patterns is important for designing effective health policies.  
 This project analyzes suicide rate data from multiple countries between 2000 and 2016. Many previous reports present raw numbers without deeper analysis. This project fills that gap by using SQL to explore trends, identify high-risk regions, and uncover gender-based differences. Visualizations created with Power BI provide a clearer picture of the patterns.
@@ -35,6 +35,38 @@ Mental health and suicide rate. The Kaggle Link[https://www.kaggle.com/datasets/
 - **Zimbabwe had the fewest mental health hospitals globally in 2016**, reflecting severe infrastructural limitations.
 
 - **Norway had the highest mental-health staff density globally in 2016**, indicating strong investment in mental-health systems.
+
+## 📌 Recommendations
+
+1. **Strengthen Mental Health Interventions in High-Risk Countries**  
+   Countries like Guyana and Uganda should prioritize national mental-health strategies focused on early detection, suicide prevention programs, and public awareness campaigns.
+
+2. **Invest in Mental-Health Workforce Development**  
+   Nations with low staff density—especially African countries—should scale up training, recruitment, and retention of psychiatrists, psychologists, nurses, and social workers, using models adopted by countries like Norway and Egypt.
+
+3. **Increase Funding for Mental Health Infrastructure**  
+   Countries with very few mental health hospitals, such as Zimbabwe, require immediate investment in building and equipping mental-health facilities to improve access to care.
+
+4. **Target Younger Age Groups in Low-Income Countries**  
+   Since poorer countries show higher suicide rates among people aged 20–29, governments should implement tailored youth-support programs, including:  
+   - employment empowerment  
+   - financial assistance  
+   - mental-health counseling  
+   - addiction and trauma interventions
+
+5. **Age-Specific Suicide Prevention Policies**  
+   For countries where suicide is high in the 80+ population, governments should focus on elderly care support, isolation reduction, and affordable health services for older adults.
+
+6. **Continuous Data Monitoring & Reporting**  
+   Countries should strengthen mental-health data collection systems to track trends yearly and detect changes early. This supports data-driven policy decisions.
+
+7. **Regional Collaboration and Knowledge Sharing**  
+   High-performing countries like Norway and Egypt can partner with low-resource countries to share best practices, build capacity, and develop scalable mental-health systems.
+
+8. **Integrate Mental Health Into Primary Healthcare**  
+   To address hospital shortages, governments should embed mental-health services into primary health centers, making care accessible even in remote communities.
+
+  
 
 
 
