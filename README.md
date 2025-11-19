@@ -20,7 +20,21 @@ Mental health and suicide rate. The Kaggle Link[https://www.kaggle.com/datasets/
 3. Country with the highest mental health staff density.
 4. The age group within Africa with the most cases of suicide rate.
 5. Trend of suicide rate in Africa.
-## RESULT ANALYSIS
+## 📊 Result Analysis
+
+- **Guyana recorded the highest global suicide rate**, making it the country with the most severe prevalence in the dataset.
+
+- **Uganda had the highest suicide rate in Africa in 2016**, highlighting a significant regional mental health burden.
+
+- **The year 2000 showed the highest suicide rates between 2000 and 2016**, indicating that subsequent years experienced either a decline or fluctuations.
+
+- **Egypt had the best mental-health staff density in Africa**, demonstrating stronger human-resource capacity compared to other African nations.
+
+- **Most countries reported their highest suicide rates among individuals aged 80+**, except for several lower-income countries where **younger age groups (20–29 years)** experienced higher rates—often linked to economic and social stressors.
+
+- **Zimbabwe had the fewest mental health hospitals globally in 2016**, reflecting severe infrastructural limitations.
+
+- **Norway had the highest mental-health staff density globally in 2016**, indicating strong investment in mental-health systems.
 
 
 
