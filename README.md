@@ -72,6 +72,38 @@ Key analytical questions addressed:
 4. Which country has the best mental health staff density?  
 5. What age group in Africa has the most suicide prevalence?  
 6. What are the overall suicide trends between 2000–2016?
+---
+
+   ## 📊 Visualizations  
+
+### 🌍 **1. Global Suicide Rate Trend (2000–2016)**  
+![Global Trend of Suicide](https://github.com/user-attachments/assets/aa128bdf-586a-498c-a87d-1d28e2cce741)
+
+---
+
+### 🏥 **2. Mental Health Facilities Trend Across African Countries**  
+![Mental Health Facilities](https://github.com/user-attachments/assets/66f2ac2f-95d2-4e56-a485-d9054fcfb2dd)
+
+---
+
+### 👥 **3. Suicide Rates by Age Group in Africa**  
+![Age Group Suicide Cases](https://github.com/user-attachments/assets/7dcfa2ff-2c5a-4ee4-86ed-696b54678dd2)
+
+---
+
+### 📊 **4. Country-Level Suicide Rate Comparison (Detailed View)**  
+<img width="750" height="426" src="https://github.com/user-attachments/assets/a082f9b4-96dd-4dfd-a399-8651482eb269" />
+
+---
+
+### 📊 **5. Suicide Rate Summary (Compact View)**  
+<img width="413" height="182" src="https://github.com/user-attachments/assets/2cd367e2-a34c-460d-8029-3428cc84b1e3" />
+
+---
+
+### 📊 **6. Suicide Rate Trend by Country (Multi-Year View)**  
+<img width="898" height="495" src="https://github.com/user-attachments/assets/d73a0c24-883e-44be-a334-6261ef587dec" />
+
 
 ---
 
@@ -90,26 +122,6 @@ Key analytical questions addressed:
 - **Zimbabwe had the fewest mental health hospitals globally in 2016**, reflecting severe infrastructural limitations.  
 
 - **Norway had the highest mental-health staff density globally in 2016**, indicating strong investment in mental-health systems.
-
----
-
-## 📊 Visualizations  
-
-### 🌍 **1. Global Suicide Rate Trend (2000–2016)**  
-![Global Trend of Suicide](https://github.com/user-attachments/assets/aa128bdf-586a-498c-a87d-1d28e2cce741)
-
----
-
-### 🏥 **2. Mental Health Facilities Trend Across Countries in africa**  
-![Mental Health Facilities](https://github.com/user-attachments/assets/66f2ac2f-95d2-4e56-a485-d9054fcfb2dd)
-
----
-
-### 👥 **3. Suicide Rates by Age Group in africa**  
-![Age Group Suicide Cases](https://github.com/user-attachments/assets/7dcfa2ff-2c5a-4ee4-86ed-696b54678dd2)
-
----
-
 ---
 
 ## 📌 Recommendations  
