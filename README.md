@@ -98,7 +98,7 @@ Key analytical questions addressed:
 
 Example placeholders:
 
-![Global Suicide Trend](Screenshot 2025-11-20 105952)
+![Global Suicide Trend](visual/Screenshot 2025-11-20 105952.png)
 
 ![Suicide Rate by Age Group](visuals/age_group.png)
 
