@@ -92,17 +92,17 @@ Key analytical questions addressed:
 ---
 
 ### 📊 **4. Country-Level Suicide Rate Comparison (Detailed View)**  
-![Country-Level Suicide Rate](https://github.com/user-attachments/assets/a082f9b4-96dd-4dfd-a399-8651482eb269" />)
+![Country-Level Suicide Rate](https://github.com/user-attachments/assets/a082f9b4-96dd-4dfd-a399-8651482eb269)
 
 ---
 
 ### 📊 **5. Suicide Rate Summary (Compact View)**  
-![Suicide Rate Summary](https://github.com/user-attachments/assets/2cd367e2-a34c-460d-8029-3428cc84b1e3" />)
+![Suicide Rate Summary](https://github.com/user-attachments/assets/2cd367e2-a34c-460d-8029-3428cc84b1e3)
 
 ---
 
 ### 📊 **6. Suicide Rate Trend by Country (Multi-Year View)**  
-![Suicide Rate Trend by Country](https://github.com/user-attachments/assets/d73a0c24-883e-44be-a334-6261ef587dec" />)
+![Suicide Rate Trend by Country](https://github.com/user-attachments/assets/d73a0c24-883e-44be-a334-6261ef587dec)
 
 ---
 
