@@ -95,14 +95,8 @@ Key analytical questions addressed:
 
 ## 📈 Visualizations  
 (Add your Power BI screenshots here)
-
-Example placeholders:
-
-![Global Suicide Trend](visual/Screenshot 2025-11-20 105952.png)
-
-![Suicide Rate by Age Group](visuals/age_group.png)
-
-![Africa Suicide Hotspots](visuals/africa_hotspots.png)
+global trend of sucide
+<img width="898" height="495" alt="Screenshot 2025-11-20 105952" src="https://github.com/user-attachments/assets/90c247e5-1a59-44f0-be89-5595d26ce028" />
 
 ---
 
