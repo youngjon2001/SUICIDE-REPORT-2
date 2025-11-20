@@ -93,9 +93,22 @@ Key analytical questions addressed:
 
 ---
 
-## 📈 Visualizations  
-(Add your Power BI screenshots here)
-- [global trend of suicide][<img width="898" height="495" alt="Screenshot 2025-11-20 105952" src="https://github.com/user-attachments/assets/90c247e5-1a59-44f0-be89-5595d26ce028" />]
+## 📊 Visualizations  
+
+### 🌍 **1. Global Suicide Rate Trend (2000–2016)**  
+![Global Trend of Suicide](https://github.com/user-attachments/assets/aa128bdf-586a-498c-a87d-1d28e2cce741)
+
+---
+
+### 🏥 **2. Mental Health Facilities Trend Across Countries**  
+![Mental Health Facilities](https://github.com/user-attachments/assets/66f2ac2f-95d2-4e56-a485-d9054fcfb2dd)
+
+---
+
+### 👥 **3. Suicide Rates by Age Group**  
+![Age Group Suicide Cases](https://github.com/user-attachments/assets/7dcfa2ff-2c5a-4ee4-86ed-696b54678dd2)
+
+---
 
 ---
 
