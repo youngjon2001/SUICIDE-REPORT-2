@@ -77,32 +77,19 @@ Key analytical questions addressed:
    ## 📊 Visualizations  
 
 ### 🌍 **1. Global Suicide Rate Trend (2000–2016)**  
-![Global Trend of Suicide](https://github.com/user-attachments/assets/aa128bdf-586a-498c-a87d-1d28e2cce741)
+![Global Trend of Suicide](https://github.com/user-attachments/assets/d73a0c24-883e-44be-a334-6261ef587dec)
 
 ---
 
 ### 🏥 **2. Mental Health Facilities Trend Across African Countries**  
-![Mental Health Facilities](https://github.com/user-attachments/assets/66f2ac2f-95d2-4e56-a485-d9054fcfb2dd)
+![Mental Health Facilities](https://github.com/user-attachments/assets/a082f9b4-96dd-4dfd-a399-8651482eb269)
 
 ---
 
 ### 👥 **3. Suicide Rates by Age Group in Africa**  
 ![Age Group Suicide Cases](https://github.com/user-attachments/assets/7dcfa2ff-2c5a-4ee4-86ed-696b54678dd2)
+ 
 
----
-
-### 📊 **4. Country-Level Suicide Rate Comparison (Detailed View)**  
-![Country-Level Suicide Rate](https://github.com/user-attachments/assets/a082f9b4-96dd-4dfd-a399-8651482eb269)
-
----
-
-### 📊 **5. Suicide Rate Summary (Compact View)**  
-![Suicide Rate Summary](https://github.com/user-attachments/assets/2cd367e2-a34c-460d-8029-3428cc84b1e3)
-
----
-
-### 📊 **6. Suicide Rate Trend by Country (Multi-Year View)**  
-![Suicide Rate Trend by Country](https://github.com/user-attachments/assets/d73a0c24-883e-44be-a334-6261ef587dec)
 
 ---
 
