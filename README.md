@@ -95,8 +95,7 @@ Key analytical questions addressed:
 
 ## 📈 Visualizations  
 (Add your Power BI screenshots here)
-global trend of sucide
-<img width="898" height="495" alt="Screenshot 2025-11-20 105952" src="https://github.com/user-attachments/assets/90c247e5-1a59-44f0-be89-5595d26ce028" />
+- [global trend of suicide][<img width="898" height="495" alt="Screenshot 2025-11-20 105952" src="https://github.com/user-attachments/assets/90c247e5-1a59-44f0-be89-5595d26ce028" />]
 
 ---
 
