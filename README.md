@@ -100,12 +100,12 @@ Key analytical questions addressed:
 
 ---
 
-### 🏥 **2. Mental Health Facilities Trend Across Countries**  
+### 🏥 **2. Mental Health Facilities Trend Across Countries in africa**  
 ![Mental Health Facilities](https://github.com/user-attachments/assets/66f2ac2f-95d2-4e56-a485-d9054fcfb2dd)
 
 ---
 
-### 👥 **3. Suicide Rates by Age Group**  
+### 👥 **3. Suicide Rates by Age Group in africa**  
 ![Age Group Suicide Cases](https://github.com/user-attachments/assets/7dcfa2ff-2c5a-4ee4-86ed-696b54678dd2)
 
 ---
